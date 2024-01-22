@@ -1,0 +1,82 @@
+body {
+
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    text-indent: 10px;
+}
+
+.row {
+    width: 100%;
+    margin-left: 0;
+}
+
+.col {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.marginAdd {
+    display: none;
+}
+
+.mirador-canvas-nav {
+    display: none !important;
+}
+
+/*  My changes to this css file: */
+h2{
+    margin-right: 50px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  background-color: #2ea44f;
+  border: 2px solid #006400;
+  border-radius: 20px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  padding: 6px 16px;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* To get buttons on the right side of the page */
+#toggleDeletionsButton {
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+/* Circle around the page number */
+#folio {
+  background-color: #2ea44f;
+  display: inline-block;
+  border: 2px solid #006400;
+  border-radius: 50%;
+  padding: 24px;
+  text-align: center;
+  width: 3em;
+  color: #fff;
+}
+
+
+
+
+
+            
